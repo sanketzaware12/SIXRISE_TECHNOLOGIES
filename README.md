@@ -20,7 +20,7 @@ A responsive multi-page digital agency website built with plain HTML, CSS and va
 - `assets/images/` — SIXRISE logo (PNG, transparent) and favicon assets
 
 ## Replace before publishing
-1. **Company details:** confirm the SIXRISE name/tagline and update the Organization JSON-LD URL in each page from `https://example.com` to the real domain.
+1. **Company details:** confirm the SIXRISE name/tagline and update the Organization JSON-LD URL in each page from `https://example.com` to the real domain (now set to https://sixrisetechnologies.vercel.app/).
 2. **Email:** replace `hello@sixrise.example` with the official company email in the footer and Contact page.
 3. **Address and map:** update the placeholder city/address and add the official Google Maps embed when available.
 4. **Testimonials:** replace all sample testimonials with real, approved client feedback.

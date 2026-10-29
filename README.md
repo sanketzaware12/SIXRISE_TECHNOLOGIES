@@ -1,4 +1,4 @@
-# SIXRISE Digital Agency Website
+# SIXRISE TECH SOLUTIONS Website
 
 A responsive multi-page digital agency website built with plain HTML, CSS and vanilla JavaScript. No framework, package manager or build step is required.
 
